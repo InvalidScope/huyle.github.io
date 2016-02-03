@@ -1,0 +1,14 @@
+.gem-thumbnail {
+	width: 50px;
+}
+.thumbnail-margin {
+	margin-right: 10px;
+}
+.gallery-body {
+	width: 50%;
+    margin: 0 auto;
+}
+.gem-thumbslide {
+	margin-top: 10px;
+    margin-left: -40px;
+}
